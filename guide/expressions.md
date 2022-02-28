@@ -404,6 +404,10 @@ assert_eq!(
 );
 ```
 
+Here is a list of other macros with their own style guide:
+
+* [asm!](special_case_macros/asm.md)
+
 
 ### Casts (`as`)
 
